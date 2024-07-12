@@ -1,23 +1,31 @@
 # My Portfolio
 
-Welcome to my portfolio! This site showcases my projects through clickable images.
+Welcome to my portfolio! Here are some of my key projects:
 
-## Projects
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+  <a href="https://github.com/yourusername/webapp" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; text-align: center;">
+      <img src="https://via.placeholder.com/200x150.png?text=Web+App" alt="Web App" style="width: 100%; height: auto; border-radius: 10px;">
+      <p>Web App</p>
+    </div>
+  </a>
+  <a href="https://github.com/yourusername/mobileapp" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; text-align: center;">
+      <img src="https://via.placeholder.com/200x150.png?text=Mobile+App" alt="Mobile App" style="width: 100%; height: auto; border-radius: 10px;">
+      <p>Mobile App</p>
+    </div>
+  </a>
+  <a href="https://github.com/yourusername/dataviz" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; text-align: center;">
+      <img src="https://via.placeholder.com/200x150.png?text=Data+Viz" alt="Data Visualization" style="width: 100%; height: auto; border-radius: 10px;">
+      <p>Data Visualization</p>
+    </div>
+  </a>
+</div>
 
-### Project 1: Web App
-[![Web App](https://via.placeholder.com/300x200.png?text=Web+App)](https://github.com/yourusername/webapp)
+## About Me
 
-A responsive web application built with React and Node.js.
-
-### Project 2: Mobile App
-[![Mobile App](https://via.placeholder.com/300x200.png?text=Mobile+App)](https://github.com/yourusername/mobileapp)
-
-An iOS and Android app developed using React Native.
-
-### Project 3: Data Visualization
-[![Data Viz](https://via.placeholder.com/300x200.png?text=Data+Visualization)](https://github.com/yourusername/dataviz)
-
-Interactive data visualizations created with D3.js.
+I'm a passionate developer with expertise in web and mobile applications. I love creating intuitive, user-friendly interfaces and working with data.
 
 ## Skills
 
@@ -33,13 +41,5 @@ Interactive data visualizations created with D3.js.
 - Email: your.email@example.com
 - LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
 - GitHub: [@yourusername](https://github.com/yourusername)
-
-## How to Use This Template
-
-1. Fork this repository
-2. Replace the placeholder images with your project screenshots
-3. Update the project links to point to your repositories
-4. Modify the skills and contact information
-5. Customize the design by editing the accompanying CSS file
 
 Feel free to reach out if you have any questions or would like to collaborate!
