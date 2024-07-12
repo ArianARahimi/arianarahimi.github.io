@@ -1,1 +1,24 @@
-theme: minima
+theme: jekyll-theme-minimal
+title: ARIAN RAHIMI
+description: GAMEPLAY/ENGINE DEVELOPER 
+show_downloads: false
+
+# Navigation
+header_pages:
+  - games.md
+  - about.md
+  - resume.md
+
+# Custom CSS
+sass:
+  style: compressed
+
+# Add custom styles
+custom_css: |
+  body { font-family: Arial, sans-serif; }
+  h1, h2 { text-align: center; }
+  img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+  .project { margin-bottom: 40px; text-align: center; }
+  .project h3 { margin-top: 10px; }
+  nav { text-align: center; margin-bottom: 30px; }
+  nav a { margin: 0 15px; text-decoration: none; color: #333; }
