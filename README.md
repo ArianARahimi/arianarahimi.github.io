@@ -1,3 +1,8 @@
+<nav style="position: fixed; top: 0; right: 0; padding: 10px; background-color: rgba(255, 255, 255, 0.8);">
+  <a href="#about-me" style="margin-right: 15px; text-decoration: none; color: #333;">About Me</a>
+  <a href="#contact" style="text-decoration: none; color: #333;">Contact</a>
+</nav>
+
 # My Portfolio
 
 Welcome to my portfolio! Here are some of my key projects:
@@ -23,6 +28,8 @@ Welcome to my portfolio! Here are some of my key projects:
   </a>
 </div>
 
+<div id="about-me"></div>
+
 ## About Me
 
 I'm a passionate developer with expertise in web and mobile applications. I love creating intuitive, user-friendly interfaces and working with data.
@@ -35,6 +42,8 @@ I'm a passionate developer with expertise in web and mobile applications. I love
 - Node.js
 - Python
 - Data Analysis
+
+<div id="contact"></div>
 
 ## Contact
 
